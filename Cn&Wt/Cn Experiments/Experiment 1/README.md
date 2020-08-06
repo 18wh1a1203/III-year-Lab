@@ -12,4 +12,4 @@ i.character count ii.character stuffing and iii. bit stuffing
 
 ### Output
 
-![output](screenshot4.png)
+![output](screenshot(4).png)
