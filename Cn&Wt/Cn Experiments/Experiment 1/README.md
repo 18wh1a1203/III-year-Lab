@@ -12,4 +12,4 @@ i.character count ii.character stuffing and iii. bit stuffing
 
 ### Output
 
-![output](hi.png)
+![output](Count.png)
