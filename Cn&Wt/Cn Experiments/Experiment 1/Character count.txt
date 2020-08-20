@@ -1,0 +1,62 @@
+#include<stdio.h>
+
+#include<string.h>
+
+int main() {
+	
+int n;
+	
+char a[10][10];
+
+	printf("Enter the no of frames:");
+	
+        scanf("%d",&n);
+
+	for(int i =0;i<n;i++){
+     
+      printf("Frame %d:",i+1);
+	
+   scanf("%s",&a[i]);
+	
+}
+	
+printf("\n");
+	
+printf("AT THE SENDER\n");
+      
+   
+    for(int i = 0; i < n; i++){
+      
+     printf("Frame %d:%ld%s\n",i+1,(strlen(a[i])+1),a[i]);
+
+          
+       }
+       
+printf("\n");
+
+        
+      printf("AT THE RECEIVER\n");
+   
+    
+	printf("The data after removing count char:");
+
+	 for(int i = 0; i < n; i++){
+
+           printf("%s",a[i]);
+
+       }
+	 
+printf("\n");
+
+	 printf("\n");
+
+	 printf("The data in frame form\n");
+
+	for (int i=0;i<n;i++){
+
+		printf("Frame %d:%s\n",i+1,a[i]);
+	
+}
+	return 0;
+
+}
