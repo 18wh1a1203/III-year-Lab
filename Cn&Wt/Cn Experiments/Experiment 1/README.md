@@ -6,7 +6,7 @@ i.character count ii.character stuffing and iii. bit stuffing
 
 ### step by step procedure of experiment
 
-####charcter count
+####character count
 1. First scan the number of frames required.
 2. Find string length of each frames
 3. Print the Frames at Sender.
