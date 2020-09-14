@@ -34,3 +34,6 @@ If the remainder is non-zero,
 1.Receiver assumes that some error occurred in the data during the transmission.
 2.Receiver rejects the data and asks the sender for retransmission.
 
+### Output
+
+![output](Crc.png)
