@@ -1,7 +1,7 @@
 
 ## OutPut
 ## Registration Page
-![output](register.png)
+![output](mysql.jfif)
 ## Login Page
 ![output](loginpage.png)
 ## Home Page
