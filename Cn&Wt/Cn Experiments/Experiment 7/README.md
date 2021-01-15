@@ -25,7 +25,7 @@ Step 9: Stop
 
 ### Output
  
- #### Broadcast tree
+ #### data encryption and data decryption
 
-![output](encryption.png)
+![output](encription.png)
 
