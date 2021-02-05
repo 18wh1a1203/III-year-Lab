@@ -41,11 +41,11 @@ in Wireshark.
 
 ##### Captured file statistics
 
-![output](capture_filestats.png)
+![output](captur_filestats.png)
 
 ##### Packet Lengths
 
-![output](packetlength.png)
+![output](packetlengths.png)
 
 ##### I/O graphs
 
